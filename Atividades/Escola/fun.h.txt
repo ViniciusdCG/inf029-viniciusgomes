@@ -1,0 +1,10 @@
+void menu1();
+void menu2();
+void menu3();
+int ValidaData();
+int cadAluno();
+int cadProfessor();
+int cadDisc();
+void listProf();
+void listAlunos();
+void listDis();
