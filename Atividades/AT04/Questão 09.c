@@ -1,3 +1,6 @@
+#include <stdio.h>
+#define LG 20
+#define tsex 1
 #define tcpf 11
 int vnome(char *name){
   int i;
